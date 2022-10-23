@@ -14,7 +14,7 @@
 
 
 <html>
-<head><neta charset="UTF-8"></head>
+<head><meta charset="UTF-8"></head>
 <body>
  เพิ่มสมาชิกสำเร็จ 
 
